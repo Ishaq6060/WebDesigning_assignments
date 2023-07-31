@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+<body>
+<!--Hi image tag is very cool to learn-->
+<h1style="coor:blue;text-align:center">Virat Kohli</h1>
+<img scr="vk.webp"width="50"eight="50"stlye="border:1px solid">
+<p style="color:green">Virat Kohli(Hindi pronunciation:[vi'ra:t'ko:hli](listen);born 5 november 1988)is an Indian inter Born and raised in new delhi,Kohli trained at the West Delhi Cricket Academy and Started his youth career with the Delhi
+</p>
+<table>
+
+<tr>
+<th>Born</th>
+<th>Nickname</th>
+
+
+</body>
+</html>
